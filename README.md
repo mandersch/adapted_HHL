@@ -17,3 +17,9 @@ This repository contains all code used in my master's thesis on black box unitar
 
 **Series Prob** calculates the probability of finding eigenseries under given circumstances
 
+## Haar_measure.ipynb
+> contains all procedures related to generation of random unitary matrices
+
+**bad samples** allows for generation of unitary matrices through uniformly sampling parameters
+
+**Haar samples** generates unitary matrices through Haar measure
